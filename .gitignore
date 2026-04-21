@@ -1,0 +1,39 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash logs
+sysinfo.txt
+
+# Memory captures
+*.mem
+
+# Asset Store tools
+Assets/AssetStoreTools*
+
+# Rider
+.idea/
+
+# JetBrains
+*.DotSettings.user
